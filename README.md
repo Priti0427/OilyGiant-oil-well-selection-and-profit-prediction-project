@@ -23,3 +23,16 @@ OilyGiant is planning to invest in new oil well development across three regions
 - Regions: geo_data_0, geo_data_1, geo_data_2.
 
 - Risk of loss must be < 2.5%.
+
+
+##  Conclusion
+- All three regions were evaluated with linear regression and bootstrapped for risk.
+
+**Region 1** stands out with:
+
+- Highest average profit i.e. 6515083.302589471
+
+- Aprroximately Zero risk of loss
+
+
+✅ Region 1 is the optimal choice for oil well development under the given conditions.
