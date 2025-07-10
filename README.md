@@ -79,10 +79,12 @@ Include geospatial analysis to better assess underground structure risks.
 Consider multi-objective optimization for risk vs reward balance.
 
 ✍️ Author
+
 Priti Sagar
 Data Science Project | 2025
 
 📄 License
+
 This project is for educational purposes only.
 No real financial or industrial decisions should be based on this analysis.
 
